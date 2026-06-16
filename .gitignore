@@ -1,0 +1,24 @@
+# Ignore everything (repo lives in ~/.config which has other apps)
+*
+
+# Track our dirs
+!bat/
+!bat/**
+!git/
+!git/**
+!nvim/
+!nvim/**
+!starship/
+!starship/**
+!tmux/
+!tmux/**
+!zsh/
+!zsh/**
+
+# Track root files
+!install.sh
+!.gitignore
+!README.md
+
+# Ignore generated files
+nvim/lazy-lock.json

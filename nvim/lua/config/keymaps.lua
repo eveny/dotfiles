@@ -1,0 +1,2 @@
+-- Keymaps loaded after lazy.nvim startup
+-- LazyVim defaults: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
